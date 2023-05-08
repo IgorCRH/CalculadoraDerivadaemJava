@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\lar\Desktop\UFRRJMaterias\Materiais, Transparencias e Listas\LP3 e Java\Exercícios Extracurso - Férias\22 - Derivadas\calcderivada\calculadoraderivada.jar</jar>
+  <outfile>C:\Users\lar\Desktop\UFRRJMaterias\Materiais, Transparencias e Listas\LP3 e Java\Exercícios Extracurso - Férias\22 - Derivadas\calcderivada\calculadoraderivada.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\lar\Desktop\UFRRJMaterias\Materiais, Transparencias e Listas\LP3 e Java\Exercícios Extracurso - Férias\22 - Derivadas\calcderivada\icone.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jre1.8.0_361</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
